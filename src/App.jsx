@@ -18,7 +18,7 @@ function App() {
         </section>
 
         <section className="projects">
-          <h2>Projects</h2>
+          <h2>Portfolio</h2>
           <div className="project-card">
             <h3>ForeverDash</h3>
             <p>
